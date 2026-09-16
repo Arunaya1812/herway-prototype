@@ -1,0 +1,133 @@
+{
+  "start": {
+    "lat": 28.6328,
+    "lon": 77.2197,
+    "name": "Connaught Place"
+  },
+  "end": {
+    "lat": 28.5494,
+    "lon": 77.2001,
+    "name": "Hauz Khas"
+  },
+  "city": "delhi",
+  "routes": [
+    {
+      "route_type": "safety_optimized",
+      "city": "delhi",
+      "path_nodes": [
+        "delhi_n_110",
+        "delhi_n_71",
+        "delhi_n_165",
+        "delhi_n_32",
+        "delhi_n_47"
+      ],
+      "polyline": [
+        {
+          "lat": 28.627888144916803,
+          "lon": 77.21011497041843
+        },
+        {
+          "lat": 28.60426432186232,
+          "lon": 77.23753354579337
+        },
+        {
+          "lat": 28.58546114193122,
+          "lon": 77.1400115799843
+        },
+        {
+          "lat": 28.562912679069075,
+          "lon": 77.14316116851579
+        },
+        {
+          "lat": 28.54416405196512,
+          "lon": 77.18716440866774
+        }
+      ],
+      "total_distance_km": 20.801,
+      "total_duration_min": 41.75,
+      "average_safety_score": 63.73
+    },
+    {
+      "route_type": "balance",
+      "city": "delhi",
+      "path_nodes": [
+        "delhi_n_110",
+        "delhi_n_71",
+        "delhi_n_165",
+        "delhi_n_32",
+        "delhi_n_47"
+      ],
+      "polyline": [
+        {
+          "lat": 28.627888144916803,
+          "lon": 77.21011497041843
+        },
+        {
+          "lat": 28.60426432186232,
+          "lon": 77.23753354579337
+        },
+        {
+          "lat": 28.58546114193122,
+          "lon": 77.1400115799843
+        },
+        {
+          "lat": 28.562912679069075,
+          "lon": 77.14316116851579
+        },
+        {
+          "lat": 28.54416405196512,
+          "lon": 77.18716440866774
+        }
+      ],
+      "total_distance_km": 20.801,
+      "total_duration_min": 41.75,
+      "average_safety_score": 63.73
+    },
+    {
+      "route_type": "speed_optimized",
+      "city": "delhi",
+      "path_nodes": [
+        "delhi_n_110",
+        "delhi_n_137",
+        "delhi_n_1",
+        "delhi_n_46",
+        "delhi_n_32",
+        "delhi_n_220",
+        "delhi_n_47"
+      ],
+      "polyline": [
+        {
+          "lat": 28.627888144916803,
+          "lon": 77.21011497041843
+        },
+        {
+          "lat": 28.64115171847145,
+          "lon": 77.17551027537067
+        },
+        {
+          "lat": 28.619439219876025,
+          "lon": 77.16332730695736
+        },
+        {
+          "lat": 28.593739189515087,
+          "lon": 77.14148334621659
+        },
+        {
+          "lat": 28.562912679069075,
+          "lon": 77.14316116851579
+        },
+        {
+          "lat": 28.550474345890468,
+          "lon": 77.1518872390483
+        },
+        {
+          "lat": 28.54416405196512,
+          "lon": 77.18716440866774
+        }
+      ],
+      "total_distance_km": 18.515,
+      "total_duration_min": 32.52,
+      "average_safety_score": 55.38
+    }
+  ]
+}

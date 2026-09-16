@@ -1,0 +1,11 @@
+# Secret files
+nextjs_space/.env
+.abacus.donotdelete
+
+# Next.js
+nextjs_space/node_modules/
+nextjs_space/.next/
+
+# Flutter
+.dart_tool/
+build/

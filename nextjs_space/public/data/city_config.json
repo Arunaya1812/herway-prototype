@@ -1,0 +1,45 @@
+{
+  "delhi": {
+    "lat_range": [
+      28.4,
+      28.9
+    ],
+    "lon_range": [
+      76.84,
+      77.35
+    ],
+    "centroid": [
+      28.6139,
+      77.209
+    ],
+    "weather_distribution": {
+      "clear": 0.35,
+      "haze": 0.25,
+      "fog": 0.1,
+      "rain": 0.15,
+      "thunderstorm": 0.03,
+      "heatwave": 0.12
+    }
+  },
+  "mumbai": {
+    "lat_range": [
+      18.89,
+      19.3
+    ],
+    "lon_range": [
+      72.75,
+      73.05
+    ],
+    "centroid": [
+      19.076,
+      72.8777
+    ],
+    "weather_distribution": {
+      "clear": 0.3,
+      "haze": 0.1,
+      "rain": 0.35,
+      "thunderstorm": 0.1,
+      "humid": 0.15
+    }
+  }
+}

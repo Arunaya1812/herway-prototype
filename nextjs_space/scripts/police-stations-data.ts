@@ -1,0 +1,26 @@
+export const POLICE_STATIONS = {
+  delhi: [
+    { name: "Connaught Place Police Station", lat: 28.6328, lon: 77.2197, contact: "+91-11-23490212", address: "Connaught Place, New Delhi" },
+    { name: "Hauz Khas Police Station", lat: 28.5494, lon: 77.2001, contact: "+91-11-26563333", address: "Hauz Khas, South Delhi" },
+    { name: "Saket Police Station", lat: 28.5245, lon: 77.2066, contact: "+91-11-26850764", address: "Saket, New Delhi" },
+    { name: "Dwarka North Police Station", lat: 28.6091, lon: 77.0365, contact: "+91-11-28043911", address: "Dwarka Sector 7, New Delhi" },
+    { name: "Vasant Kunj Police Station", lat: 28.529, lon: 77.1537, contact: "+91-11-26132525", address: "Vasant Kunj, New Delhi" },
+    { name: "Karol Bagh Police Station", lat: 28.6519, lon: 77.1909, contact: "+91-11-28752028", address: "Karol Bagh, Central Delhi" },
+    { name: "Rohini South Police Station", lat: 28.7098, lon: 77.1156, contact: "+91-11-27562447", address: "Rohini Sector 7, Delhi" },
+    { name: "Lajpat Nagar Police Station", lat: 28.5678, lon: 77.2435, contact: "+91-11-29842617", address: "Lajpat Nagar, New Delhi" },
+    { name: "Shahdara Police Station", lat: 28.6692, lon: 77.2929, contact: "+91-11-22304124", address: "Shahdara, East Delhi" },
+    { name: "Model Town Police Station", lat: 28.7048, lon: 77.1947, contact: "+91-11-27673184", address: "Model Town, North Delhi" },
+  ],
+  mumbai: [
+    { name: "Colaba Police Station", lat: 18.9067, lon: 72.8147, contact: "+91-22-22150055", address: "Colaba, Mumbai" },
+    { name: "Marine Drive Police Station", lat: 18.9435, lon: 72.8233, contact: "+91-22-22020202", address: "Marine Drive, Mumbai" },
+    { name: "Bandra Police Station", lat: 19.0544, lon: 72.8405, contact: "+91-22-26423165", address: "Bandra West, Mumbai" },
+    { name: "Andheri Police Station", lat: 19.1197, lon: 72.8468, contact: "+91-22-26835289", address: "Andheri East, Mumbai" },
+    { name: "Juhu Police Station", lat: 19.1025, lon: 72.8263, contact: "+91-22-26184020", address: "Juhu, Mumbai" },
+    { name: "Powai Police Station", lat: 19.118, lon: 72.9052, contact: "+91-22-25702266", address: "Powai, Mumbai" },
+    { name: "Dadar Police Station", lat: 19.018, lon: 72.8421, contact: "+91-22-24130300", address: "Dadar, Mumbai" },
+    { name: "Kurla Police Station", lat: 19.0726, lon: 72.8781, contact: "+91-22-26504770", address: "Kurla, Mumbai" },
+    { name: "Borivali Police Station", lat: 19.2291, lon: 72.8575, contact: "+91-22-28931234", address: "Borivali West, Mumbai" },
+    { name: "Ghatkopar Police Station", lat: 19.0849, lon: 72.908, contact: "+91-22-25132041", address: "Ghatkopar, Mumbai" },
+  ],
+};
